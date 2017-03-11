@@ -1,0 +1,26 @@
+h1 {
+  text-transform: uppercase;
+  color: #ff99cc;
+  font-family: century gothic;
+}
+h2 {
+  font-family: Century Gothic;
+  color: #a7a7a7;
+}
+li {
+  font-size: 18px;
+  font-family: Century Gothic;
+}
+
+#my-favourite-hobbies {
+  color: #ff99cc;
+  font-weight: bold;
+}
+
+#my-experience {
+  color: green;
+}
+
+.blue {
+  color: lightblue;
+}
